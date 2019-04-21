@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Collision Sciences-clone",
+    "name": "Collision Sciences-latest",
     "currentPage": "accidentreports.html",
     "theme": {
       "name": "mobirise4",
@@ -44,7 +44,9 @@
     "versionPublish": "4.9.7",
     "favicon": "",
     "noImageResize": "true",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "cookiesAlert": "",
+    "gdpr": ""
   },
   "pages": {
     "aboutus.html": {
