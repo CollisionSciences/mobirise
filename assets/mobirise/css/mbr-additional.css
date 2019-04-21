@@ -1981,209 +1981,6 @@ body {
 .cid-rflJEyppn4 H1 {
   text-align: center;
 }
-.cid-roirSVftW2 {
-  background-image: url("../../../assets/images/starry-road-ivan-pedrett-2.jpg");
-}
-.cid-roirSVftW2 .mbr-icofont {
-  font-size: 48px;
-  color: #353535;
-}
-.cid-roirSVftW2 .show-modal span {
-  cursor: pointer;
-  background-color: #ffffff;
-  border-radius: 50%;
-  width: 6rem;
-  height: 6rem;
-  position: relative;
-  display: inline-block;
-  transition: all 0.25s;
-}
-.cid-roirSVftW2 .show-modal span:before {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  -webkit-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%);
-}
-.cid-roirSVftW2 .mbr-figure {
-  width: 100px;
-  height: 100px;
-  margin-bottom: 10px;
-  margin: auto;
-  transition: transform 1s;
-  cursor: pointer;
-}
-.cid-roirSVftW2 .mbr-figure a {
-  width: 100px;
-  height: 100px;
-  line-height: 100px;
-  font-size: 100px;
-}
-.cid-roirSVftW2 .mbr-figure a:before {
-  width: 100px;
-  height: 100px;
-}
-.cid-roirSVftW2 .mbr-figure:hover {
-  transform: scale(1.15);
-  transition: transform 1s;
-  -webkit-transform: scale(1.15);
-}
-.cid-roirSVftW2 .mbri-play:before {
-  left: 55% !important;
-}
-.cid-roirSVftW2 .form-inline {
-  justify-content: center;
-  -webkit-justify-content: center;
-}
-.cid-roirSVftW2 .form-inline .form-group {
-  padding: 0.5rem;
-}
-.cid-roirSVftW2 .form-inline input {
-  text-align: center;
-}
-.cid-roirSVftW2 h3 {
-  color: #ffffff;
-  text-align: center;
-  font-weight: 300;
-}
-.cid-roirSVftW2 .modalWindow {
-  position: fixed;
-  z-index: 5000;
-  display: none;
-  left: 0;
-  top: 0;
-  background-color: rgba(61, 61, 61, 0.65);
-  width: 100%;
-  height: 100%;
-}
-.cid-roirSVftW2 .modalWindow .modalWindow-container {
-  display: table-cell;
-  vertical-align: middle;
-  text-align: -o-center;
-}
-.cid-roirSVftW2 .modalWindow .modalWindow-container .modalWindow-video-container {
-  display: inline-block;
-  width: 100%;
-}
-.cid-roirSVftW2 .modalWindow .modalWindow-container .modalWindow-video-container .modalWindow-video {
-  margin: auto;
-}
-.cid-roirSVftW2 a.close {
-  position: absolute;
-  right: 4vw;
-  top: 4vh;
-  color: #ffffff;
-  z-index: 5000000;
-  font-size: 37px;
-  background: #000;
-  padding: 20px;
-  border-radius: 50%;
-}
-.cid-roirSVftW2 a.close:hover {
-  color: #ffffff;
-}
-@media (max-width: 500px) {
-  .cid-roirSVftW2 .modalWindow-video {
-    width: 80%;
-    height: 200px;
-    position: relative;
-  }
-}
-@media (min-width: 500px) and (max-width: 768px) {
-  .cid-roirSVftW2 .modalWindow-video {
-    width: 90%;
-    height: 340px;
-    position: relative;
-  }
-}
-@media (min-width: 768px) and (max-width: 850px) {
-  .cid-roirSVftW2 .modalWindow-video {
-    width: 700px;
-    height: 395px;
-    position: relative;
-  }
-}
-@media (min-width: 850px) and (max-width: 1300px) {
-  .cid-roirSVftW2 .modalWindow-video {
-    width: 800px;
-    height: 452px;
-    position: relative;
-  }
-}
-@media (min-width: 1300px) {
-  .cid-roirSVftW2 .modalWindow-video {
-    width: 1200px;
-    height: 675px;
-    position: relative;
-  }
-}
-.cid-roitiXuQ2q {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/beautiful-night-sky-road-free-download-wallpaper-beautiful-hd-wallpapers-page-1-of-beautiful-night-sky-road-free-download-wallpaper-1-2000x1125.jpg");
-}
-@media (max-width: 767px) {
-  .cid-roitiXuQ2q .content {
-    text-align: center;
-  }
-  .cid-roitiXuQ2q .content > div:not(:last-child) {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-roitiXuQ2q .media-wrap {
-    margin-bottom: 1rem;
-  }
-}
-.cid-roitiXuQ2q .media-wrap .mbr-iconfont-logo {
-  font-size: 7.5rem;
-  color: #f36;
-}
-.cid-roitiXuQ2q .media-wrap img {
-  height: 6rem;
-}
-@media (max-width: 767px) {
-  .cid-roitiXuQ2q .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-roitiXuQ2q .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #fff;
-  opacity: .05;
-}
-.cid-roitiXuQ2q .footer-lower .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  -webkit-justify-content: flex-end;
-}
-.cid-roitiXuQ2q .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
-  color: #fff;
-}
-.cid-roitiXuQ2q .footer-lower .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-roitiXuQ2q .footer-lower .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-roitiXuQ2q .footer-lower .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-roitiXuQ2q .footer-lower .social-list {
-    justify-content: center;
-    -webkit-justify-content: center;
-  }
-}
 .cid-rkfgnLsn7z .navbar {
   padding: .5rem 0;
   background: #232323;
@@ -2575,4 +2372,207 @@ body {
 .cid-rkfgnLsn7z .nav-link:hover,
 .cid-rkfgnLsn7z .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-roiyLLoWLY {
+  background-image: url("../../../assets/images/night-traffic-by-arbebuk.jpg");
+}
+.cid-roiyLLoWLY .mbr-icofont {
+  font-size: 48px;
+  color: #353535;
+}
+.cid-roiyLLoWLY .show-modal span {
+  cursor: pointer;
+  background-color: #ffffff;
+  border-radius: 50%;
+  width: 6rem;
+  height: 6rem;
+  position: relative;
+  display: inline-block;
+  transition: all 0.25s;
+}
+.cid-roiyLLoWLY .show-modal span:before {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+.cid-roiyLLoWLY .mbr-figure {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+  margin: auto;
+  transition: transform 1s;
+  cursor: pointer;
+}
+.cid-roiyLLoWLY .mbr-figure a {
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  font-size: 100px;
+}
+.cid-roiyLLoWLY .mbr-figure a:before {
+  width: 100px;
+  height: 100px;
+}
+.cid-roiyLLoWLY .mbr-figure:hover {
+  transform: scale(1.15);
+  transition: transform 1s;
+  -webkit-transform: scale(1.15);
+}
+.cid-roiyLLoWLY .mbri-play:before {
+  left: 55% !important;
+}
+.cid-roiyLLoWLY .form-inline {
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-roiyLLoWLY .form-inline .form-group {
+  padding: 0.5rem;
+}
+.cid-roiyLLoWLY .form-inline input {
+  text-align: center;
+}
+.cid-roiyLLoWLY h3 {
+  color: #ffffff;
+  text-align: center;
+  font-weight: 300;
+}
+.cid-roiyLLoWLY .modalWindow {
+  position: fixed;
+  z-index: 5000;
+  display: none;
+  left: 0;
+  top: 0;
+  background-color: rgba(61, 61, 61, 0.65);
+  width: 100%;
+  height: 100%;
+}
+.cid-roiyLLoWLY .modalWindow .modalWindow-container {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: -o-center;
+}
+.cid-roiyLLoWLY .modalWindow .modalWindow-container .modalWindow-video-container {
+  display: inline-block;
+  width: 100%;
+}
+.cid-roiyLLoWLY .modalWindow .modalWindow-container .modalWindow-video-container .modalWindow-video {
+  margin: auto;
+}
+.cid-roiyLLoWLY a.close {
+  position: absolute;
+  right: 4vw;
+  top: 4vh;
+  color: #ffffff;
+  z-index: 5000000;
+  font-size: 37px;
+  background: #000;
+  padding: 20px;
+  border-radius: 50%;
+}
+.cid-roiyLLoWLY a.close:hover {
+  color: #ffffff;
+}
+@media (max-width: 500px) {
+  .cid-roiyLLoWLY .modalWindow-video {
+    width: 80%;
+    height: 200px;
+    position: relative;
+  }
+}
+@media (min-width: 500px) and (max-width: 768px) {
+  .cid-roiyLLoWLY .modalWindow-video {
+    width: 90%;
+    height: 340px;
+    position: relative;
+  }
+}
+@media (min-width: 768px) and (max-width: 850px) {
+  .cid-roiyLLoWLY .modalWindow-video {
+    width: 700px;
+    height: 395px;
+    position: relative;
+  }
+}
+@media (min-width: 850px) and (max-width: 1300px) {
+  .cid-roiyLLoWLY .modalWindow-video {
+    width: 800px;
+    height: 452px;
+    position: relative;
+  }
+}
+@media (min-width: 1300px) {
+  .cid-roiyLLoWLY .modalWindow-video {
+    width: 1200px;
+    height: 675px;
+    position: relative;
+  }
+}
+.cid-roiy848yXh {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/beautiful-night-sky-road-free-download-wallpaper-beautiful-hd-wallpapers-page-1-of-beautiful-night-sky-road-free-download-wallpaper-1-2000x1125.jpg");
+}
+@media (max-width: 767px) {
+  .cid-roiy848yXh .content {
+    text-align: center;
+  }
+  .cid-roiy848yXh .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-roiy848yXh .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-roiy848yXh .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-roiy848yXh .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-roiy848yXh .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-roiy848yXh .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-roiy848yXh .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-roiy848yXh .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-roiy848yXh .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-roiy848yXh .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-roiy848yXh .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-roiy848yXh .footer-lower .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
 }
