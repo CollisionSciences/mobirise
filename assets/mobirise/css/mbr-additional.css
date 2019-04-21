@@ -1474,6 +1474,78 @@ body {
 .cid-rfrBvK4GTA H1 {
   text-align: center;
 }
+.cid-roiCtYsSMX {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/phone-mockup.jpg");
+}
+.cid-roiCrFCl2h {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/beautiful-night-sky-road-free-download-wallpaper-beautiful-hd-wallpapers-page-1-of-beautiful-night-sky-road-free-download-wallpaper-1-2000x1125.jpg");
+}
+@media (max-width: 767px) {
+  .cid-roiCrFCl2h .content {
+    text-align: center;
+  }
+  .cid-roiCrFCl2h .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-roiCrFCl2h .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-roiCrFCl2h .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-roiCrFCl2h .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-roiCrFCl2h .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-roiCrFCl2h .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-roiCrFCl2h .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-roiCrFCl2h .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-roiCrFCl2h .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-roiCrFCl2h .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-roiCrFCl2h .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-roiCrFCl2h .footer-lower .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
 .cid-rkhzswDpRq .navbar {
   padding: .5rem 0;
   background: #232323;
@@ -1865,73 +1937,6 @@ body {
 .cid-rkhzswDpRq .nav-link:hover,
 .cid-rkhzswDpRq .dropdown-item:hover {
   color: #c1c1c1 !important;
-}
-.cid-rkBMp75cAP {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/beautiful-night-sky-road-free-download-wallpaper-beautiful-hd-wallpapers-page-1-of-beautiful-night-sky-road-free-download-wallpaper-1-2000x1125.jpg");
-}
-@media (max-width: 767px) {
-  .cid-rkBMp75cAP .content {
-    text-align: center;
-  }
-  .cid-rkBMp75cAP .content > div:not(:last-child) {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rkBMp75cAP .media-wrap {
-    margin-bottom: 1rem;
-  }
-}
-.cid-rkBMp75cAP .media-wrap .mbr-iconfont-logo {
-  font-size: 7.5rem;
-  color: #f36;
-}
-.cid-rkBMp75cAP .media-wrap img {
-  height: 6rem;
-}
-@media (max-width: 767px) {
-  .cid-rkBMp75cAP .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-rkBMp75cAP .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #fff;
-  opacity: .05;
-}
-.cid-rkBMp75cAP .footer-lower .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  -webkit-justify-content: flex-end;
-}
-.cid-rkBMp75cAP .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
-  color: #fff;
-}
-.cid-rkBMp75cAP .footer-lower .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-rkBMp75cAP .footer-lower .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-rkBMp75cAP .footer-lower .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-rkBMp75cAP .footer-lower .social-list {
-    justify-content: center;
-    -webkit-justify-content: center;
-  }
 }
 .cid-rflJEyppn4 {
   background-image: url("../../../assets/images/night-traffic-by-arbebuk-900x600.jpg");
