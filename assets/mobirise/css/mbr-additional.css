@@ -132,7 +132,7 @@ body {
   border-radius: 3px;
 }
 .bg-primary {
-  background-color: #be7938 !important;
+  background-color: #150e0e !important;
 }
 .bg-success {
   background-color: #f7ed4a !important;
@@ -148,8 +148,8 @@ body {
 }
 .btn-primary,
 .btn-primary:active {
-  background-color: #be7938 !important;
-  border-color: #be7938 !important;
+  background-color: #150e0e !important;
+  border-color: #150e0e !important;
   color: #ffffff !important;
 }
 .btn-primary:hover,
@@ -157,14 +157,14 @@ body {
 .btn-primary.focus,
 .btn-primary.active {
   color: #ffffff !important;
-  background-color: #835327 !important;
-  border-color: #835327 !important;
+  background-color: #000000 !important;
+  border-color: #000000 !important;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #835327 !important;
-  border-color: #835327 !important;
+  background-color: #000000 !important;
+  border-color: #000000 !important;
 }
 .btn-secondary,
 .btn-secondary:active {
@@ -312,22 +312,22 @@ body {
 .btn-primary-outline,
 .btn-primary-outline:active {
   background: none;
-  border-color: #6f4721;
-  color: #6f4721;
+  border-color: #000000;
+  color: #000000;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
 .btn-primary-outline.focus,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #be7938;
-  border-color: #be7938;
+  background-color: #150e0e;
+  border-color: #150e0e;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #be7938 !important;
-  border-color: #be7938 !important;
+  background-color: #150e0e !important;
+  border-color: #150e0e !important;
 }
 .btn-secondary-outline,
 .btn-secondary-outline:active {
@@ -464,7 +464,7 @@ body {
   border-color: #ffffff;
 }
 .text-primary {
-  color: #be7938 !important;
+  color: #150e0e !important;
 }
 .text-secondary {
   color: #ff3366 !important;
@@ -489,7 +489,7 @@ body {
 }
 a.text-primary:hover,
 a.text-primary:focus {
-  color: #6f4721 !important;
+  color: #000000 !important;
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
@@ -547,8 +547,8 @@ a.text-black:focus {
   border-radius: 100px !important;
 }
 .mbr-gallery-filter li.active .btn {
-  background-color: #be7938;
-  border-color: #be7938;
+  background-color: #150e0e;
+  border-color: #150e0e;
   color: #ffffff;
 }
 .mbr-gallery-filter li.active .btn:focus {
@@ -565,11 +565,11 @@ a.text-black:focus {
 }
 a,
 a:hover {
-  color: #be7938;
+  color: #150e0e;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #e0ba96;
+  color: #d0b8b8;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -690,7 +690,7 @@ blockquote {
   padding: 10px 0 10px 20px;
   font-size: 1.09rem;
   position: relative;
-  border-color: #be7938;
+  border-color: #150e0e;
   border-width: 3px;
 }
 ul,
@@ -779,7 +779,7 @@ pre {
   text-align: center;
   position: relative;
   border: 2px solid #c0a375;
-  border-color: #be7938;
+  border-color: #150e0e;
   color: #232323;
   cursor: pointer;
 }
@@ -790,7 +790,7 @@ pre {
 }
 .btn-social:hover {
   color: #fff;
-  background: #be7938;
+  background: #150e0e;
 }
 .btn-social + .btn {
   margin-left: .1rem;
@@ -798,11 +798,11 @@ pre {
 /* Footer */
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #be7938;
+  background: #150e0e;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #be7938;
+  color: #150e0e;
 }
 .footer3 input[type="email"],
 .footer4 input[type="email"] {
@@ -1384,7 +1384,7 @@ body {
 }
 .jq-selectbox li:hover,
 .jq-selectbox li.selected {
-  background-color: #be7938;
+  background-color: #150e0e;
   color: #ffffff;
 }
 .jq-selectbox .jq-selectbox__trigger-arrow,
@@ -1397,14 +1397,14 @@ body {
 .jq-selectbox:hover .jq-selectbox__trigger-arrow,
 .jq-number__spin.minus:hover:after,
 .jq-number__spin.plus:hover:after {
-  border-top-color: #be7938;
-  border-bottom-color: #be7938;
+  border-top-color: #150e0e;
+  border-bottom-color: #150e0e;
 }
 .xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_default,
 .xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_current,
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div.xdsoft_current {
   color: #ffffff !important;
-  background-color: #be7938 !important;
+  background-color: #150e0e !important;
   box-shadow: none!important;
 }
 .xdsoft_datetimepicker .xdsoft_calendar td:hover,
@@ -1493,78 +1493,6 @@ body {
 }
 .cid-rfrBvK4GTA H1 {
   text-align: center;
-}
-.cid-roiCtYsSMX {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/phone-mockup.jpg");
-}
-.cid-roiCrFCl2h {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/beautiful-night-sky-road-free-download-wallpaper-beautiful-hd-wallpapers-page-1-of-beautiful-night-sky-road-free-download-wallpaper-1-2000x1125.jpg");
-}
-@media (max-width: 767px) {
-  .cid-roiCrFCl2h .content {
-    text-align: center;
-  }
-  .cid-roiCrFCl2h .content > div:not(:last-child) {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-roiCrFCl2h .media-wrap {
-    margin-bottom: 1rem;
-  }
-}
-.cid-roiCrFCl2h .media-wrap .mbr-iconfont-logo {
-  font-size: 7.5rem;
-  color: #f36;
-}
-.cid-roiCrFCl2h .media-wrap img {
-  height: 6rem;
-}
-@media (max-width: 767px) {
-  .cid-roiCrFCl2h .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-roiCrFCl2h .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #fff;
-  opacity: .05;
-}
-.cid-roiCrFCl2h .footer-lower .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  -webkit-justify-content: flex-end;
-}
-.cid-roiCrFCl2h .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
-  color: #fff;
-}
-.cid-roiCrFCl2h .footer-lower .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-roiCrFCl2h .footer-lower .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-roiCrFCl2h .footer-lower .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-roiCrFCl2h .footer-lower .social-list {
-    justify-content: center;
-    -webkit-justify-content: center;
-  }
 }
 .cid-rkhzswDpRq .navbar {
   padding: .5rem 0;
@@ -1958,35 +1886,72 @@ body {
 .cid-rkhzswDpRq .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rflJEyppn4 {
-  background-image: url("../../../assets/images/night-traffic-by-arbebuk-900x600.jpg");
+.cid-rkBMp75cAP {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/beautiful-night-sky-road-free-download-wallpaper-beautiful-hd-wallpapers-page-1-of-beautiful-night-sky-road-free-download-wallpaper-1-2000x1125.jpg");
 }
-.cid-rflJEyppn4 H1 {
-  text-align: center;
+@media (max-width: 767px) {
+  .cid-rkBMp75cAP .content {
+    text-align: center;
+  }
+  .cid-rkBMp75cAP .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
 }
-.cid-rflJEyppn4 {
-  background-image: url("../../../assets/images/night-traffic-by-arbebuk-900x600.jpg");
+@media (max-width: 767px) {
+  .cid-rkBMp75cAP .media-wrap {
+    margin-bottom: 1rem;
+  }
 }
-.cid-rflJEyppn4 H1 {
-  text-align: center;
+.cid-rkBMp75cAP .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
 }
-.cid-rflJEyppn4 {
-  background-image: url("../../../assets/images/night-traffic-by-arbebuk-900x600.jpg");
+.cid-rkBMp75cAP .media-wrap img {
+  height: 6rem;
 }
-.cid-rflJEyppn4 H1 {
-  text-align: center;
+@media (max-width: 767px) {
+  .cid-rkBMp75cAP .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
 }
-.cid-rflJEyppn4 {
-  background-image: url("../../../assets/images/night-traffic-by-arbebuk-900x600.jpg");
+.cid-rkBMp75cAP .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
 }
-.cid-rflJEyppn4 H1 {
-  text-align: center;
+.cid-rkBMp75cAP .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
 }
-.cid-rflJEyppn4 {
-  background-image: url("../../../assets/images/night-traffic-by-arbebuk-900x600.jpg");
+.cid-rkBMp75cAP .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
 }
-.cid-rflJEyppn4 H1 {
-  text-align: center;
+.cid-rkBMp75cAP .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rkBMp75cAP .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rkBMp75cAP .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rkBMp75cAP .footer-lower .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
 }
 .cid-rflJEyppn4 {
   background-image: url("../../../assets/images/night-traffic-by-arbebuk-900x600.jpg");
@@ -2001,53 +1966,184 @@ body {
   text-align: center;
 }
 .cid-rflJEyppn4 {
-  background-image: url("../../../assets/images/wp2465563.jpg");
+  background-image: url("../../../assets/images/night-traffic-by-arbebuk-900x600.jpg");
 }
 .cid-rflJEyppn4 H1 {
   text-align: center;
 }
-.cid-roizavBdHh {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/phone-mockup.jpg");
+.cid-r6pZL3I3HR {
+  background-image: url("../../../assets/images/4e77454283a0e8edfe91f382ca52bf24-badlands-national-park-national-parks-1-736x491.jpg");
 }
-.cid-rtA6hbmFON {
+.cid-r6pZL3I3HR .mbr-icofont {
+  font-size: 48px;
+  color: #353535;
+}
+.cid-r6pZL3I3HR .show-modal span {
+  cursor: pointer;
+  background-color: #ffffff;
+  border-radius: 50%;
+  width: 6rem;
+  height: 6rem;
+  position: relative;
+  display: inline-block;
+  transition: all 0.25s;
+}
+.cid-r6pZL3I3HR .show-modal span:before {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+.cid-r6pZL3I3HR .mbr-figure {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 10px;
+  margin: auto;
+  transition: transform 1s;
+  cursor: pointer;
+}
+.cid-r6pZL3I3HR .mbr-figure a {
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
+  font-size: 100px;
+}
+.cid-r6pZL3I3HR .mbr-figure a:before {
+  width: 100px;
+  height: 100px;
+}
+.cid-r6pZL3I3HR .mbr-figure:hover {
+  transform: scale(1.15);
+  transition: transform 1s;
+  -webkit-transform: scale(1.15);
+}
+.cid-r6pZL3I3HR .mbri-play:before {
+  left: 55% !important;
+}
+.cid-r6pZL3I3HR .form-inline {
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-r6pZL3I3HR .form-inline .form-group {
+  padding: 0.5rem;
+}
+.cid-r6pZL3I3HR .form-inline input {
+  text-align: center;
+}
+.cid-r6pZL3I3HR h3 {
+  color: #ffffff;
+  text-align: center;
+  font-weight: 300;
+}
+.cid-r6pZL3I3HR .modalWindow {
+  position: fixed;
+  z-index: 5000;
+  display: none;
+  left: 0;
+  top: 0;
+  background-color: rgba(61, 61, 61, 0.65);
+  width: 100%;
+  height: 100%;
+}
+.cid-r6pZL3I3HR .modalWindow .modalWindow-container {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: -o-center;
+}
+.cid-r6pZL3I3HR .modalWindow .modalWindow-container .modalWindow-video-container {
+  display: inline-block;
+  width: 100%;
+}
+.cid-r6pZL3I3HR .modalWindow .modalWindow-container .modalWindow-video-container .modalWindow-video {
+  margin: auto;
+}
+.cid-r6pZL3I3HR a.close {
+  position: absolute;
+  right: 4vw;
+  top: 4vh;
+  color: #ffffff;
+  z-index: 5000000;
+  font-size: 37px;
+  background: #000;
+  padding: 20px;
+  border-radius: 50%;
+}
+.cid-r6pZL3I3HR a.close:hover {
+  color: #ffffff;
+}
+@media (max-width: 500px) {
+  .cid-r6pZL3I3HR .modalWindow-video {
+    width: 80%;
+    height: 200px;
+    position: relative;
+  }
+}
+@media (min-width: 500px) and (max-width: 768px) {
+  .cid-r6pZL3I3HR .modalWindow-video {
+    width: 90%;
+    height: 340px;
+    position: relative;
+  }
+}
+@media (min-width: 768px) and (max-width: 850px) {
+  .cid-r6pZL3I3HR .modalWindow-video {
+    width: 700px;
+    height: 395px;
+    position: relative;
+  }
+}
+@media (min-width: 850px) and (max-width: 1300px) {
+  .cid-r6pZL3I3HR .modalWindow-video {
+    width: 800px;
+    height: 452px;
+    position: relative;
+  }
+}
+@media (min-width: 1300px) {
+  .cid-r6pZL3I3HR .modalWindow-video {
+    width: 1200px;
+    height: 675px;
+    position: relative;
+  }
+}
+.cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
   background-image: url("../../../assets/images/beautiful-night-sky-road-free-download-wallpaper-beautiful-hd-wallpapers-page-1-of-beautiful-night-sky-road-free-download-wallpaper-1-2000x1125.jpg");
 }
 @media (max-width: 767px) {
-  .cid-rtA6hbmFON .content {
+  .cid-qTkAaeaxX5 .content {
     text-align: center;
   }
-  .cid-rtA6hbmFON .content > div:not(:last-child) {
+  .cid-qTkAaeaxX5 .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-rtA6hbmFON .media-wrap {
+  .cid-qTkAaeaxX5 .media-wrap {
     margin-bottom: 1rem;
   }
 }
-.cid-rtA6hbmFON .media-wrap .mbr-iconfont-logo {
+.cid-qTkAaeaxX5 .media-wrap .mbr-iconfont-logo {
   font-size: 7.5rem;
   color: #f36;
 }
-.cid-rtA6hbmFON .media-wrap img {
+.cid-qTkAaeaxX5 .media-wrap img {
   height: 6rem;
 }
 @media (max-width: 767px) {
-  .cid-rtA6hbmFON .footer-lower .copyright {
+  .cid-qTkAaeaxX5 .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-rtA6hbmFON .footer-lower hr {
+.cid-qTkAaeaxX5 .footer-lower hr {
   margin: 1rem 0;
   border-color: #fff;
   opacity: .05;
 }
-.cid-rtA6hbmFON .footer-lower .social-list {
+.cid-qTkAaeaxX5 .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
@@ -2056,24 +2152,24 @@ body {
   justify-content: flex-end;
   -webkit-justify-content: flex-end;
 }
-.cid-rtA6hbmFON .footer-lower .social-list .mbr-iconfont-social {
+.cid-qTkAaeaxX5 .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #fff;
 }
-.cid-rtA6hbmFON .footer-lower .social-list .soc-item {
+.cid-qTkAaeaxX5 .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-rtA6hbmFON .footer-lower .social-list a {
+.cid-qTkAaeaxX5 .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-rtA6hbmFON .footer-lower .social-list a:hover {
+.cid-qTkAaeaxX5 .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-rtA6hbmFON .footer-lower .social-list {
+  .cid-qTkAaeaxX5 .footer-lower .social-list {
     justify-content: center;
     -webkit-justify-content: center;
   }
@@ -2469,4 +2565,34 @@ body {
 .cid-rkfgnLsn7z .nav-link:hover,
 .cid-rkfgnLsn7z .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-rflJEyppn4 {
+  background-image: url("../../../assets/images/night-traffic-by-arbebuk-900x600.jpg");
+}
+.cid-rflJEyppn4 H1 {
+  text-align: center;
+}
+.cid-rflJEyppn4 {
+  background-image: url("../../../assets/images/night-traffic-by-arbebuk-900x600.jpg");
+}
+.cid-rflJEyppn4 H1 {
+  text-align: center;
+}
+.cid-rflJEyppn4 {
+  background-image: url("../../../assets/images/night-traffic-by-arbebuk-900x600.jpg");
+}
+.cid-rflJEyppn4 H1 {
+  text-align: center;
+}
+.cid-rflJEyppn4 {
+  background-image: url("../../../assets/images/night-traffic-by-arbebuk-900x600.jpg");
+}
+.cid-rflJEyppn4 H1 {
+  text-align: center;
+}
+.cid-rflJEyppn4 {
+  background-image: url("../../../assets/images/night-traffic-by-arbebuk-900x600.jpg");
+}
+.cid-rflJEyppn4 H1 {
+  text-align: center;
 }
